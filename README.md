@@ -9,6 +9,8 @@ and chai.  The `mocha-junit-reporters` package is included to provide XML
 output that can be presented in a continuous integration tool like
 [Azure DevOps](https://azure.com/devops).
 
+[![Build Status](https://dev.azure.com/EstiamLabs/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_apis/build/status/Pipeline%20Template-ASP.NET-CI?branchName=master)](https://dev.azure.com/EstiamLabs/Configuring%20Agent%20Pools%20and%20Understanding%20Pipeline%20Styles/_build/latest?definitionId=3&branchName=master)
+
 To build, simply:
 
 1. Runs `npm install` to install dependencies.
